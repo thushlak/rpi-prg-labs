@@ -1,0 +1,35 @@
+# C / C++ build files
+*.o
+*.a
+*.so
+*.out
+
+# Kernel modules/build artifacts
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.cmd
+*.symvers
+modules.order
+Module.symvers
+
+# Generated dependency files
+*.d
+
+# Core dumps
+core
+core.*
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,35 @@
+#include <iostream>
+using namespace std;
+
+int main ()
+
+{
+  int option = 2;
+
+  switch(option)
+
+  {
+
+    case 1:
+    cout << "start\n";
+    break;
+
+    case 2:
+    cout << "stop\n\n";
+    break;
+
+    case 3:
+    cout << "move\n";
+    break;
+
+    case 4:
+    cout << "remove\n";
+    break;
+
+    default:
+    cout << "unknown\n";
+
+  }
+
+  return 0;
+}
