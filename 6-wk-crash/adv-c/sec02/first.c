@@ -3,7 +3,7 @@
 int main(void) {
     printf("Hello. You are %d years old\n", MY_AGE);
 
-}
+    }
 
 
 

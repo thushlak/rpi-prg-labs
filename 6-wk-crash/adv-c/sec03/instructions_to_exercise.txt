@@ -1,0 +1,19 @@
+
+	// Please follow the instructions and write the code chronologically.
+	//  1. Declare a double type variable named rate and assign 0.06 to it
+	//  2. Declare an integer variable, name it duration.
+	//  3. Declare a double variable and name it principal_amount
+	//  4. Declare a double variable and name it total_interest
+
+    5. Prompt user to input duration in year. Read the year value in duration using 
+	//	   scanf. Since duration is integer you must use %d.
+	//	6. Prompt user to input principal amount of loan. Read the value in the 
+	//	   variable principal_amount. Think about the format specifier this time. 
+	//	   principal_amount is not an integer, it is a double, so use the format specifier
+	//	   of double.
+	//  7. Now you will calculate the total interest, if R is rate, D is duration and P 
+	//	   is principal then the total interest should be calculated as follows:
+	//		I = (P * D * R)
+	//	   Use the above formula to calculate the total interest and finally print the 
+	//     amount into the console. Your output should be like the following: 
+	//	   Output: 
