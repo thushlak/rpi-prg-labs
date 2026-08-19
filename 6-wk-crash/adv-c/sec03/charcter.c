@@ -18,7 +18,7 @@ int main()
     printf ("Enter another character using getchar:  ");
     char new_char;
     new_char = getchar();
-    printf("new char is %c\n", new_char );
+    printf("new char is %d - %c\n", new_char , new_char );
 
 
         return 0;
